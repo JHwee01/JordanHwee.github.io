@@ -1,0 +1,43 @@
+h1{
+   color: green;
+   font-family: Arial;
+   font-size: 72px;
+}
+
+body{
+   background-color: grey;
+}
+
+div{
+   background-color: black;
+   width: 100%;
+   padding: 25px;
+}
+
+a.menulink{
+   color: red;
+   font-family: Arial;
+   font-size: 24px;
+   text-decoration: none;
+   padding: 10%;
+}
+
+p{
+   font-family: Arial;
+   font-size: 24px;
+}
+
+a.link{
+   color: black;
+   font-weight: bold;
+   font-size: 36px;
+   text-decoration: none;
+   font-family: Arial;
+}
+   
+a{
+   color: black;
+   font-size: 24px;
+   text-decoration: none;
+   font-family: Arial;
+}

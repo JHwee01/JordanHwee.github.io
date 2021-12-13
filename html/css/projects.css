@@ -1,0 +1,72 @@
+h1{
+   color: yellow;
+   font-family: Arial;
+   font-size: 72px;
+}
+
+h2{
+   font-family: Arial;
+   font-size: 36px;
+}
+
+figcaption{
+   font-family: Arial;
+   font-size: 16px;
+}
+
+body{
+   background-color: grey;
+}
+
+p{
+   font-family: Arial;
+   font-size: 24px;
+}
+
+img{
+   padding: 2px;
+   background-color: black;
+}
+
+img.fix{
+   height: 418px;
+   width: 626px;
+}
+
+img.video{
+   background-color: red;
+   height: 418px;
+   padding: 10px;
+  
+}
+
+figure{
+   display: table;
+   float: left;
+   width: 30%;
+}
+
+h2{
+   clear: left;
+}
+
+div{
+   width: 100%;
+   padding: 25px;
+   background-color: black;
+}
+
+a.menulink{
+   color: red;
+   font-family: Arial;
+   background-color: none;
+   font-size: 24;
+   text-decoration: none;
+   padding: 10%;
+}
+
+a{
+   color: red;
+   text-decoration: none;
+   font-size: 24px;
+}
